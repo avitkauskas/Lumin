@@ -4,6 +4,8 @@ A glassmorphism-inspired theme for Zed.
 
 Lumin preserves the visual language of Vesper Blur: translucent surfaces, blur effects, dark panels, and minimal UI — while replacing the editor syntax highlighting with a Cursor-inspired palette.
 
+Modified from original at: [https://github.com/frypan05/Lumin.git]
+
 ## Features
 
 - Blur-based UI surfaces
@@ -29,7 +31,7 @@ Fork this repository
 ### 2. Clone your fork
 
 ```bash
-git clone https://github.com/frypan05/Lumin.git
+git clone https://github.com/avitkauskas/Lumin.git
 ```
 
 ### 3. Install as a development extension
