@@ -1,10 +1,10 @@
-id = "lumin-theme"
-name = "Lumin"
+id = "my-lumin-theme"
+name = "My Lumin"
 version = "0.0.2"
 schema_version = 1
 
-authors = ["Daksh Sharma <dakshsharma.tech>"]
+authors = ["Daksh Sharma <dakshsharma.tech>", "Alvydas Vitkauskas <alvydas.vitkauskas@inbox.eu>"]
 
 
-description = "Peppermint flavored theme; offspring of Vesper & Cursor."
-repository = "https://github.com/frypan05/Lumin"
+description = "Modified Peppermint flavored theme; offspring of Vesper & Cursor."
+repository = "https://github.com/avitkauskas/Lumin"
